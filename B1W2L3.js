@@ -21,3 +21,5 @@ document.write('<br> 9×3 = '+(9*3))
 document.write('<br> 10×3 = '+(10*3))
 document.write('<br>')
 document.write('<br> 12+6×10/5-10 = '+(12+6*10/5-10))
+var cijfer = prompt('vul je cijfer in');
+document.write('<br> (cijfer)+6×10/5-10 = '+((cijfer)+6*10/5-10))
