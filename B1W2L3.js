@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-   <title>lab 1 - basis</title>
-</head>
-<body>
-  <h1>Lab 2 - basis</h1>
-  <script src="b1w2l1.js"></script>
- </body>
-</html>
+document.write(' 1×6 = '+(1*6))
+document.write(' 2×6 = '+(2*6))
+document.write(' 3×6 = '+(3*6))
+document.write(' 4×6 = '+(4*6))
+document.write(' 5×6 = '+(5*6))
+document.write(' 6×6 = '+(6*6))
+document.write(' 7×6 = '+(7*6))
+document.write(' 8×6 = '+(8*6))
+document.write(' 9×6 = '+(9*6))
+document.write(' 10×6 = '+(10*6))
