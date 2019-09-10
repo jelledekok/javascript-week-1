@@ -3,7 +3,8 @@ jelle de kok
 ICT BOL4 Cohort
 */
 alert('je moet een paar vragen invullen')//vraagt of je een paar vragen wilt invullen
-//const alert('je moet een paar vragen invullen')
+const melding = 'je moet een paar vragen invullen';
+alert(melding);
 var voornaam = prompt('vul je voornaam in'); //var en vraag voornaam
 var achternaam = prompt('vul je achternaam in'); // var en vraag achternaam
 var leeftijd = prompt('vul je leeftijd in'); //var en vraag leeftijd
